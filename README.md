@@ -2,7 +2,7 @@
 
 ## Instalacion del proyecto
 
-Se tuvieron algunas cmplicaciones ya que la forma normal que tenia era para instalarlo en istemas operativos diferentes a Windows y eso me causo algunas confuciones y errores, pero los pude solucionar preguntando e intentado varias veces.
+Se tuvieron algunas complicaciones ya que la forma normal que tenia era para instalarlo en sistemas operativos diferentes a Windows y eso me causo algunas confusiones y errores, pero los pude solucionar preguntando e intentado varias veces.
 
 ### Codigo de crear tareas
 
