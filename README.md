@@ -143,3 +143,7 @@ useEffect(() => {
 ```
 
 - Lo que se hace aqui es que se importa de react el **useEffect** que segun a lo que entendí se activa cada vez que haya una recarga o un cambio en el programa y en este caso lo que se hace es almacenar de forma local las tareas que estaran disponibles hasta que se cierre el servidor.
+
+#### Conclusión
+
+Me parecio interesante esta practica y me gusto porque me permite entender mas cosas y hacerme mas dudas sobre otras, lo cual esta bien porque se esta aprendiendo, me ayudo a conocer otra funcionalidad de react llamada useEffect que esta bastante interesante y a reafirmar lo que ya se del useState. Este tipo de plataformas me gustaron por lo accesibles que son, la clara explicación para su instalación y explicacion de los proyectos.
